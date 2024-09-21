@@ -1,7 +1,7 @@
 import React, { useState } from "react";
-import Navbar from "./components/Navbar";
-import ProductList from "./components/ProductList";
-import CartModal from "./components/CartModal";
+import Navbar from "./Components/Navbar";
+import ProductList from "./Components/ProductList";
+import CartModal from "./Components/CartModal";
 import "./index.css";
 
 const App = () => {
